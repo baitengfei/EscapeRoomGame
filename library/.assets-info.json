@@ -1,0 +1,1082 @@
+{
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res": {
+    "time": 1697344389000,
+    "uuid": "e3e79d4d-2739-49d5-9a29-e5173a79c3fb",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scenes": {
+    "time": 1697345586000,
+    "uuid": "1b1bf4c7-861a-46b4-94b3-9732f258f032",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts": {
+    "time": 1697371775000,
+    "uuid": "38c14094-c111-4b92-aa10-388cff10f2d1",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/Anims": {
+    "time": 1697361809000,
+    "uuid": "2a3ed96b-5f0f-4730-a1d8-51998c183c02",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages": {
+    "time": 1697634220472.785,
+    "uuid": "b8f18ffe-8f67-4c5f-a4ab-b9718310b486",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes": {
+    "time": 1697344389000,
+    "uuid": "6c221a86-4449-415c-b1c3-4178b1a2e8e9",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base": {
+    "time": 1697350235000,
+    "uuid": "b11b96a8-65ba-4b9e-bca6-cc808ec2cda5",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config": {
+    "time": 1697350266000,
+    "uuid": "0c45fb51-848b-42d5-9f17-916971d5d4c1",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data": {
+    "time": 1697634442634.935,
+    "uuid": "3111e43a-06ed-4194-ab6b-eabd976b3b40",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager": {
+    "time": 1697350420000,
+    "uuid": "3196884e-272a-4dac-9da2-d61e6276cb37",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK": {
+    "time": 1684130380000,
+    "uuid": "1614b084-2fd9-410b-854f-80b9fba142d7",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Tool": {
+    "time": 1697350461000,
+    "uuid": "e5a49521-db73-4477-bc8b-b1cc60d24808",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI": {
+    "time": 1697350570000,
+    "uuid": "4d5fd000-2dbb-4ced-a0bc-a37cc6a92de4",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Config": {
+    "time": 1697436691000,
+    "uuid": "63851885-2d9f-4a06-896c-d3f9cb49d4b5",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S1": {
+    "time": 1697359524000,
+    "uuid": "46954677-e0ad-4c5e-9c3e-566f88b458a9",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S2": {
+    "time": 1697362190000,
+    "uuid": "ef703b27-5312-4aa7-b41d-fa56359df4e4",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S3": {
+    "time": 1697362551000,
+    "uuid": "06f936c3-097e-438c-b15f-858a571fcd4c",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S4": {
+    "time": 1697634295023.8254,
+    "uuid": "486019d9-a58c-4115-8b34-d1441930e278",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound": {
+    "time": 1697547504000,
+    "uuid": "ef0075d4-24b4-4bcd-8c8f-56cecd6604e3",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI": {
+    "time": 1697358478000,
+    "uuid": "c047f382-a673-4c31-b51d-afc5cd33a614",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene": {
+    "time": 1697634255455.2957,
+    "uuid": "c1a068cd-af50-407b-b40d-7367f6658c6e",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI": {
+    "time": 1697344742000,
+    "uuid": "6ade764f-13c9-4072-bbf5-7e2013c3356f",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Dialogue": {
+    "time": 1697344390000,
+    "uuid": "fd24a4d3-2567-4e84-b0df-fed716ac5a55",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag": {
+    "time": 1697634267153.81,
+    "uuid": "98bd4c3b-b1e9-46df-925e-c690307980cd",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button": {
+    "time": 1697344390000,
+    "uuid": "f1c8b374-784a-4928-9196-6d1c79a03343",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door": {
+    "time": 1697344402000,
+    "uuid": "b34a62e3-f235-412c-bb62-9872659da49d",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/drawer": {
+    "time": 1697344742000,
+    "uuid": "91de4fe7-59de-4a4d-8441-95733b16a13d",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/main": {
+    "time": 1697344390000,
+    "uuid": "00622db6-49ac-4f7c-8937-cc9267bfc5e3",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/pc": {
+    "time": 1697344390000,
+    "uuid": "339e4170-1032-4204-80b7-3bbd55b8f293",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phone": {
+    "time": 1697344390000,
+    "uuid": "20bc60fc-2763-4865-a629-5a3a6d9b908b",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips": {
+    "time": 1697344390000,
+    "uuid": "c44d06d6-e6fe-4ab9-aff2-5c411fe38e5f",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watch": {
+    "time": 1697344563000,
+    "uuid": "b80c6b54-90b5-4ac3-9a21-fec91cffb321",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win": {
+    "time": 1697344390000,
+    "uuid": "8239a021-c12e-49ed-884d-ac65a29fcddb",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/SingletonClass.ts": {
+    "time": 1697469580000,
+    "uuid": "d7b1ad66-b0ec-4b55-b559-af16f4d08515",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts": {
+    "time": 1697464284000,
+    "uuid": "490510c8-6205-46f1-9cf1-479acf59a587",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/CfgUtil.ts": {
+    "time": 1697437268000,
+    "uuid": "dfd86e5d-f884-4e02-83eb-252e2f1ac8b9",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/ConfigLoader.ts": {
+    "time": 1697437162000,
+    "uuid": "67dcd6a5-3e11-4299-b2ed-2c30320155f3",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts": {
+    "time": 1697372400000,
+    "uuid": "766dade4-2ac8-42f9-b492-afa7260c0bb9",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts": {
+    "time": 1697636741796.5303,
+    "uuid": "66442e4f-2eb2-4b1e-b874-c8468676cc3f",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneBase.ts": {
+    "time": 1697372687000,
+    "uuid": "f97ee248-9ede-49ea-a407-a3e5a4cdf4f0",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneInfo.ts": {
+    "time": 1697437110000,
+    "uuid": "2e89514a-e559-4e82-bed3-2dd48d046da1",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S1.ts": {
+    "time": 1697463561000,
+    "uuid": "0eaf1331-0481-431a-99d7-18674e116ade",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S2.ts": {
+    "time": 1697636788835.083,
+    "uuid": "4facd9d4-6fa8-43aa-a060-8bbd47895398",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S3.ts": {
+    "time": 1697636287869.4434,
+    "uuid": "245b006e-7a2e-4ecf-9638-c4b7e7014d6a",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S4.ts": {
+    "time": 1697637236706.5427,
+    "uuid": "cc150969-4721-4748-8de4-35e0e83acf71",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts": {
+    "time": 1697450540000,
+    "uuid": "dd5e6507-4aea-41dc-9b3d-a2e6aed01f4a",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/GameManager.ts": {
+    "time": 1697635761082.9675,
+    "uuid": "a1e78248-9ce8-4bb3-82dd-c132a4f078bf",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/LoadingManager.ts": {
+    "time": 1697635610919.8718,
+    "uuid": "69a49f5c-5a89-45d4-9e4a-e13317c38c0a",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/ResManager.ts": {
+    "time": 1697469542000,
+    "uuid": "adc71e49-7d9c-4f2a-8752-e2ef757be799",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts": {
+    "time": 1697635629481.8215,
+    "uuid": "ffad3da4-0d44-4dcd-9c41-6218817f0806",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts": {
+    "time": 1697469524000,
+    "uuid": "1e14507f-78d9-44ed-997c-f052353f4bb9",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts": {
+    "time": 1697469515000,
+    "uuid": "52d8642a-81b3-4367-826c-1987873ba4e0",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/GameAd.ts": {
+    "time": 1697372293000,
+    "uuid": "64e212d0-882d-4bb0-9447-fcd6a57ca73b",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/WXAPI.ts": {
+    "time": 1697372416000,
+    "uuid": "d0f0f4d3-d629-4efd-8e72-22655bde4030",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Tool/Tools.ts": {
+    "time": 1697371359000,
+    "uuid": "51c67ecc-93af-49f9-a4d2-a37fc97130a7",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Bag.ts": {
+    "time": 1697687701502.692,
+    "uuid": "0e523620-de34-4f2d-a364-57342aa1d95e",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Dialogue.ts": {
+    "time": 1697375443000,
+    "uuid": "8a2c1aad-bbab-4db7-b72f-8567cc9e14f5",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Game.ts": {
+    "time": 1697636847832.4136,
+    "uuid": "35d19126-448b-4f5f-96a6-f2fb8e80b4c1",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_PC.ts": {
+    "time": 1697459854000,
+    "uuid": "a12475c5-f81b-4901-aac0-c4e979bf620f",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_Phone.ts": {
+    "time": 1697466116000,
+    "uuid": "1865269a-7d38-47ed-95b5-11f16b441dea",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_Watch.ts": {
+    "time": 1697466126000,
+    "uuid": "fd779ac3-7b50-4aaf-ae52-4a2eaeb52220",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Main.ts": {
+    "time": 1697375037000,
+    "uuid": "431bbe77-8752-434f-aec6-619fdf6fecc6",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Tips.ts": {
+    "time": 1697463841000,
+    "uuid": "77ad80ff-22b7-441f-b71e-33a6c02e4848",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Win.ts": {
+    "time": 1697376090000,
+    "uuid": "e878653f-3ced-4163-9b19-f334d75d0f2c",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scenes.meta": {
+    "time": 1697345570000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/Anims.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base.meta": {
+    "time": 1697345313000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config.meta": {
+    "time": 1697345313000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data.meta": {
+    "time": 1697345313000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager.meta": {
+    "time": 1697345313000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK.meta": {
+    "time": 1697371775000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Tool.meta": {
+    "time": 1697350449000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI.meta": {
+    "time": 1697345313000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Config.meta": {
+    "time": 1697351960000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S1.meta": {
+    "time": 1697351969000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S2.meta": {
+    "time": 1697351979000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S3.meta": {
+    "time": 1697351985000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S4.meta": {
+    "time": 1697634227207.7405
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound.meta": {
+    "time": 1697351993000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI.meta": {
+    "time": 1697351998000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Dialogue.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag.meta": {
+    "time": 1697344742000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/drawer.meta": {
+    "time": 1697344742000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/main.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/pc.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phone.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watch.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win.meta": {
+    "time": 1697344389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/SingletonClass.ts.meta": {
+    "time": 1697350204000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts.meta": {
+    "time": 1697350235000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/CfgUtil.ts.meta": {
+    "time": 1697350255000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/ConfigLoader.ts.meta": {
+    "time": 1697350266000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts.meta": {
+    "time": 1697350280000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts.meta": {
+    "time": 1697350288000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneBase.ts.meta": {
+    "time": 1697350300000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneInfo.ts.meta": {
+    "time": 1697350309000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S1.ts.meta": {
+    "time": 1697350334000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S2.ts.meta": {
+    "time": 1697350342000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S3.ts.meta": {
+    "time": 1697350349000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S4.ts.meta": {
+    "time": 1697634442634.4104
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts.meta": {
+    "time": 1697350374000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/GameManager.ts.meta": {
+    "time": 1697350381000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/LoadingManager.ts.meta": {
+    "time": 1697350389000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/ResManager.ts.meta": {
+    "time": 1697350396000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts.meta": {
+    "time": 1697350404000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts.meta": {
+    "time": 1697350413000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts.meta": {
+    "time": 1697350420000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/GameAd.ts.meta": {
+    "time": 1684130380000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/WXAPI.ts.meta": {
+    "time": 1681567712000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Tool/Tools.ts.meta": {
+    "time": 1697350455000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Bag.ts.meta": {
+    "time": 1697350504000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Dialogue.ts.meta": {
+    "time": 1697350512000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Game.ts.meta": {
+    "time": 1697350490000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_PC.ts.meta": {
+    "time": 1697350523000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_Phone.ts.meta": {
+    "time": 1697350533000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_Watch.ts.meta": {
+    "time": 1697350542000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Main.ts.meta": {
+    "time": 1697350480000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Tips.ts.meta": {
+    "time": 1697350497000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Win.ts.meta": {
+    "time": 1697350570000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scenes/Load.scene": {
+    "time": 1697635961906.124,
+    "uuid": "72161d92-4582-4ef9-af61-625e99364afe",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scenes/Main.scene": {
+    "time": 1697436396000,
+    "uuid": "2dbad22c-d56b-4c88-97dc-d0899fc2342d",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/Anims/Door.anim": {
+    "time": 1697443612000,
+    "uuid": "55cc1943-1f3c-42cd-9fd2-0685ee9afecf",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/Anims/Drawer.anim": {
+    "time": 1682432208000,
+    "uuid": "92e970f3-d4df-4d79-b213-6641a4f7ef0f",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Config/UI.txt": {
+    "time": 1697436691000,
+    "uuid": "cd2916ae-d11b-44e5-9d65-1f56c40f2b7c",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S1/S1.prefab": {
+    "time": 1697377549000,
+    "uuid": "7f2e13e0-8a31-477a-b1c9-7c733064924b",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S2/S2.prefab": {
+    "time": 1697377667000,
+    "uuid": "281d1e61-9229-4889-af7c-f68cb2063354",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S3/S3.prefab": {
+    "time": 1697636309056.5862,
+    "uuid": "1ef68578-578f-4a4d-9a1e-4b655fd8bbc1",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S4/S4.prefab": {
+    "time": 1697635823269.3474,
+    "uuid": "71acb470-056e-4cbd-b536-b56d955a5520",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/bg.mp3": {
+    "time": 1683273050000,
+    "uuid": "cf7b4771-e075-481a-a01c-6818e64e4455",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/bgm2.mp3": {
+    "time": 1683177254000,
+    "uuid": "4682f086-1c9b-4519-bfde-ad73adf6f02d",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/click.mp3": {
+    "time": 1682562982000,
+    "uuid": "1419a1b3-d664-4977-98d4-e8f382792515",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/drawer.mp3": {
+    "time": 1697547451000,
+    "uuid": "a9349b88-465a-4137-b3af-21b08ba7061a",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/item.mp3": {
+    "time": 1682563376000,
+    "uuid": "7565c6c4-cbb3-4c4f-8450-bc8cf82f5e6d",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/lock.mp3": {
+    "time": 1682563468000,
+    "uuid": "5d1287d2-f110-478e-b077-2024ebeec234",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/start.mp3": {
+    "time": 1682563050000,
+    "uuid": "b4fa905d-2699-4398-9787-f50291480a68",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/success.mp3": {
+    "time": 1681464702000,
+    "uuid": "ff7dd7dd-01ee-4b29-a6c0-5eaff5e46d05",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/watch.mp3": {
+    "time": 1681463458000,
+    "uuid": "628d9a5b-2e57-4969-8073-0e8d373f9637",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Bag.prefab": {
+    "time": 1697636975114.073,
+    "uuid": "22e38a64-cb0f-41cc-bfae-797a8f1c3f4c",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Dialogue.prefab": {
+    "time": 1697443290000,
+    "uuid": "2528eb70-217e-4140-81d5-5ee04b2d8406",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Game.prefab": {
+    "time": 1697443112000,
+    "uuid": "801108bc-d807-474a-bb30-0e4efa2d373c",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Item_PC.prefab": {
+    "time": 1697377869000,
+    "uuid": "87733944-f664-4e83-9b62-1b4f36b7eaca",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Item_Phone.prefab": {
+    "time": 1697466072000,
+    "uuid": "4522d229-9a91-4b61-b5fb-50bf66266c60",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Item_Watch.prefab": {
+    "time": 1697378006000,
+    "uuid": "e60f7816-cf4d-4f4f-b612-87ccf1ce06e4",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Main.prefab": {
+    "time": 1697354955000,
+    "uuid": "edc46aac-9805-42d0-bed9-7ed2182a15d0",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Tips.prefab": {
+    "time": 1697441578000,
+    "uuid": "2430ef4e-e94a-4b17-9b77-9314eca3caf4",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Win.prefab": {
+    "time": 1697376002000,
+    "uuid": "197ea101-48c2-4c62-9805-fd8441fd158f",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s1.png": {
+    "time": 1683343572000,
+    "uuid": "1b26edcd-ed5e-4865-a1be-43a4326b74d8",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s1s.png": {
+    "time": 1683315422000,
+    "uuid": "c2e3c802-0699-4790-b2c3-14184de727b1",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s2.png": {
+    "time": 1683315422000,
+    "uuid": "ee01d7a4-5f67-4abb-9467-e02cfaa0b7c1",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3.png": {
+    "time": 1683315422000,
+    "uuid": "7af43a83-dc50-4ff1-888c-e67ad5159c0f",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3s1.png": {
+    "time": 1683315422000,
+    "uuid": "4fcdab54-7eb6-4095-a28c-63e6e62ce12f",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3s1o.png": {
+    "time": 1683315422000,
+    "uuid": "a1e93a17-d9d9-40db-a5e5-c5bbfc086cd4",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s4.png": {
+    "time": 1697634255453.1968,
+    "uuid": "fa4c241a-c55b-427f-ac80-77ffa1fd3f9a",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s4s.png": {
+    "time": 1697634255452.7378,
+    "uuid": "028385b4-288c-4d78-944f-ae43b89e142f",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Progress.png": {
+    "time": 1683352322000,
+    "uuid": "5d2be381-cf14-418f-bf4f-28fb102cde9a",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/black.png": {
+    "time": 1681567712000,
+    "uuid": "e4c6c727-b196-4ce0-830a-f214a20dcbfd",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/point.png": {
+    "time": 1681567712000,
+    "uuid": "aec1fd91-7fc1-44c7-9a1a-54192751814c",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/progressBar.png": {
+    "time": 1683352312000,
+    "uuid": "8032353c-1d6d-4d48-994f-ac23c938cad4",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Dialogue/dialogue.png": {
+    "time": 1682305444000,
+    "uuid": "9d7b0dd6-86cd-470e-bf97-93c81e606883",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/bg_bag.png": {
+    "time": 1682327366000,
+    "uuid": "bcd7479e-ce6e-4974-9ed9-287531c3b850",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/bg_item.png": {
+    "time": 1682327406000,
+    "uuid": "5a560e2c-97b9-4562-a831-d41e8ca81b40",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/key.png": {
+    "time": 1697634267152.9482,
+    "uuid": "0e2b4487-8ceb-454c-88fa-4eaf38ea8052",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/phone3.png": {
+    "time": 1682319824000,
+    "uuid": "d4385dbb-bed4-4af6-9101-68f7412d086f",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/watch3.png": {
+    "time": 1683340126000,
+    "uuid": "ed9716cc-122a-43d9-b8f4-1196ca3dfa7b",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/back.png": {
+    "time": 1682305882000,
+    "uuid": "8b4346a6-ce07-4175-aeee-39c9c020b900",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/bt01.png": {
+    "time": 1682323020000,
+    "uuid": "69f16a2d-b2ef-4d81-8902-92bf8ff03b81",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/bt02.png": {
+    "time": 1682323028000,
+    "uuid": "8e002b63-4e13-41fb-9959-367f0a4928f3",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/left_bt0.png": {
+    "time": 1682305726000,
+    "uuid": "dd17a6f8-287e-4b17-a665-c155f74fa6d5",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/left_bt1.png": {
+    "time": 1682305696000,
+    "uuid": "c84cf006-3156-4f01-88e7-1ad872b6f0d4",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/right_bt0.png": {
+    "time": 1682305738000,
+    "uuid": "5d5cd4e3-3065-4fbf-8248-9f0da96c5b9d",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/right_bt1.png": {
+    "time": 1682305684000,
+    "uuid": "8f828a8f-911b-4b01-a47e-fc41aa28fe9e",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door1.png": {
+    "time": 1683318518000,
+    "uuid": "51a3d3f3-208b-4fa9-b3a9-12a1d8844334",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door2.png": {
+    "time": 1683318518000,
+    "uuid": "500ffb58-6f29-4a1e-b717-58ff8c6f2661",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door3.png": {
+    "time": 1683318518000,
+    "uuid": "2b502daf-6f37-4767-a49d-c6a113f90546",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door_bg.png": {
+    "time": 1683318518000,
+    "uuid": "024ce0ee-0b46-4c66-ab04-5130926459f2",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door_closed.png": {
+    "time": 1682564046000,
+    "uuid": "19ace044-b07b-4126-9bfe-f22bd10b6a9a",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/drawer/drawer_open.png": {
+    "time": 1682411800000,
+    "uuid": "8ef70211-fc50-4002-a1c9-612fec69c8c4",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/main/main_bg.png": {
+    "time": 1682323046000,
+    "uuid": "a250bfee-6d84-43d1-a389-8127c10f0d41",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/main/title.png": {
+    "time": 1682322954000,
+    "uuid": "65a65364-0950-4ae2-8ba2-c4899c329e94",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/pc/pc.png": {
+    "time": 1682305412000,
+    "uuid": "13421350-a9b7-470c-a188-5f6f3adbcef5",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phone/phone1.png": {
+    "time": 1682411664000,
+    "uuid": "7e06b5f8-a824-47ee-a78f-068de0ed7b99",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phone/phone2.png": {
+    "time": 1682306358000,
+    "uuid": "01cc55de-9819-4916-be36-9063af568da6",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/Tips.png": {
+    "time": 1684131028000,
+    "uuid": "257e8620-3610-493d-8d72-b68db12ad70c",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/TipsContent.png": {
+    "time": 1684131044000,
+    "uuid": "52c4b71e-e81a-4b49-95bb-f2aedace0758",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/Tipsbg.png": {
+    "time": 1684131022000,
+    "uuid": "cc10eaa1-aa6b-4905-948f-e1e74c6373d6",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watch/watch1.png": {
+    "time": 1682411924000,
+    "uuid": "d9521cf4-8dc0-452d-bd6e-8b38a01d52c4",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watch/watch2.png": {
+    "time": 1683292012000,
+    "uuid": "dbce9a5b-e328-461c-bfc4-a094c33413e5",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/logo.png": {
+    "time": 1682323124000,
+    "uuid": "67725c85-4f93-420a-ba55-614b2b494b9d",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/title_success.png": {
+    "time": 1683021548000,
+    "uuid": "06033afd-ba68-4c49-9c2a-fad528c19cc5",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/win_bg.png": {
+    "time": 1682323146000,
+    "uuid": "6e1b60b0-6aec-4dab-87bf-dc75121cc448",
+    "missing": false
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/Anims/Door.anim.meta": {
+    "time": 1697361809000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/Anims/Drawer.anim.meta": {
+    "time": 1697361809000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Config/UI.txt.meta": {
+    "time": 1697344742000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scenes/Main.scene.meta": {
+    "time": 1697345586000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scenes/Load.scene.meta": {
+    "time": 1697345581000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S1/S1.prefab.meta": {
+    "time": 1697359524000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S2/S2.prefab.meta": {
+    "time": 1697362190000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S4/S4.prefab.meta": {
+    "time": 1697634295026.928
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S3/S3.prefab.meta": {
+    "time": 1697362551000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/bg.mp3.meta": {
+    "time": 1697352112000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/click.mp3.meta": {
+    "time": 1697352112000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/item.mp3.meta": {
+    "time": 1697352112000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/bgm2.mp3.meta": {
+    "time": 1697352112000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/drawer.mp3.meta": {
+    "time": 1697352112000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/lock.mp3.meta": {
+    "time": 1697352112000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/start.mp3.meta": {
+    "time": 1697352112000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/watch.mp3.meta": {
+    "time": 1697352112000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/success.mp3.meta": {
+    "time": 1697352112000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Bag.prefab.meta": {
+    "time": 1697357084000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Dialogue.prefab.meta": {
+    "time": 1697357667000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Game.prefab.meta": {
+    "time": 1697355738000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Item_PC.prefab.meta": {
+    "time": 1697358287000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Item_Phone.prefab.meta": {
+    "time": 1697358428000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Item_Watch.prefab.meta": {
+    "time": 1697358478000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Main.prefab.meta": {
+    "time": 1697354955000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Tips.prefab.meta": {
+    "time": 1697357425000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Win.prefab.meta": {
+    "time": 1697356092000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s1s.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s1.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s2.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3s1.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3s1o.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s4.png.meta": {
+    "time": 1697634255499.3442
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s4s.png.meta": {
+    "time": 1697634255478.1196
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Progress.png.meta": {
+    "time": 1697344742000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/point.png.meta": {
+    "time": 1697344742000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/progressBar.png.meta": {
+    "time": 1697344742000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Dialogue/dialogue.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/black.png.meta": {
+    "time": 1697344742000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/bg_item.png.meta": {
+    "time": 1697356725000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/bg_bag.png.meta": {
+    "time": 1697344742000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/key.png.meta": {
+    "time": 1697634267164.9949
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/phone3.png.meta": {
+    "time": 1697344742000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/back.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/watch3.png.meta": {
+    "time": 1697344742000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/bt01.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/bt02.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/left_bt0.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/left_bt1.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/right_bt0.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/right_bt1.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door1.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door_bg.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door3.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door2.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door_closed.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/main/main_bg.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/drawer/drawer_open.png.meta": {
+    "time": 1697344742000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phone/phone1.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/main/title.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/Tips.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/TipsContent.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/Tipsbg.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/pc/pc.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phone/phone2.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watch/watch1.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/logo.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watch/watch2.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/title_success.png.meta": {
+    "time": 1697344390000
+  },
+  "/Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/win_bg.png.meta": {
+    "time": 1697344390000
+  }
+}

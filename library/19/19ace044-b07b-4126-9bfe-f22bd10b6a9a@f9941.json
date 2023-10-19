@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "door_closed",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 377,
+      "height": 839
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 377,
+      "height": 839
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -188.5,
+        -419.5,
+        0,
+        188.5,
+        -419.5,
+        0,
+        -188.5,
+        419.5,
+        0,
+        188.5,
+        419.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        839,
+        377,
+        839,
+        0,
+        0,
+        377,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -188.5,
+        "y": -419.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 188.5,
+        "y": 419.5,
+        "z": 0
+      }
+    },
+    "texture": "19ace044-b07b-4126-9bfe-f22bd10b6a9a@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

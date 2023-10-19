@@ -1,0 +1,396 @@
+2023-10-19 11:56:52-debug: asset-db:worker-init (936ms)
+2023-10-19 11:56:52-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/advanced/simple-skin.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:53-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/advanced/sky.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:53-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/advanced/water.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:54-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/for2d/builtin-spine.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:54-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/for2d/builtin-sprite-renderer.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:54-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/for2d/builtin-sprite.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:54-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-camera-texture.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:54-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-clear-stencil.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:54-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-debug-renderer.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:55-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-geometry-renderer.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:55-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-graphics.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:55-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-occlusion-query.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:55-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-reflection-deferred.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:55-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-wireframe.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:55-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/legacy/standard.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:55-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/legacy/terrain.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:55-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/legacy/toon.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:56-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/particles/builtin-billboard.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:56-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/particles/builtin-particle-gpu.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:56-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/particles/builtin-particle-trail.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:57-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/particles/builtin-particle-xr-trail.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:57-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/particles/builtin-particle.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:57-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/bloom.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:57-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/deferred-lighting.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:57-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/fxaa-hq.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:57-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/planar-shadow.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:57-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/post-process.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:57-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/skybox.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:57-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/smaa.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:58-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/tonemap.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:58-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/batched-unlit.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:58-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/profiler.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:58-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/sequence-anim.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:58-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/splash-screen.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:58-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/gizmo.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:58-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/box-height-light.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:58-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/grid-2d.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:58-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/grid-stroke.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:58-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/grid.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:58-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/light-probe-visualization.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:58-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/light.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:59-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/terrain-circle-brush.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:59-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/terrain-image-brush.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:59-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/terrain-select-brush.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:59-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/dcc/imported-metallic-roughness.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:56:59-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/dcc/imported-specular-glossiness.effectbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: Preimport db internal success
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Resbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackagesbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scriptsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/Animsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scenesbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIResbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Managerbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Configbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Databackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Basebackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDKbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S1background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Toolbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Configbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UIbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S2background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S3background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UIbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Soundbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S4background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scenebackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UIbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Dialoguebackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/buttonbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bagbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/doorbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/drawerbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/mainbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/pcbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phonebackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tipsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watchbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/winbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/SingletonClass.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/CfgUtil.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/ConfigLoader.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneBase.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S2.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S1.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneInfo.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S3.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S4.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/GameManager.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/LoadingManager.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/ResManager.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/GameAd.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/WXAPI.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Tool/Tools.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Bag.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Dialogue.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Game.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_PC.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_Phone.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_Watch.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Main.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Tips.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Win.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:00-debug: Preimport db assets success
+2023-10-19 11:57:00-debug: asset-db:worker-effect-data-processing (113ms)
+2023-10-19 11:57:03-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-10-19 11:57:03-debug: Start up the 'internal' database...
+2023-10-19 11:57:03-debug: asset-db:worker-init-script (13ms)
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-billboard-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-clear-stencil.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-material-transparent.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-particle-gpu-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-particle-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-spine-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-sprite-renderer-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-trail-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/particle-add.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/standard-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/missing-effect-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/missing-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-alpha-test-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-base-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-sprite-alpha-sep-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-graphics-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-sprite-gray-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-sprite-gray-alpha-sep-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-sprite-material.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/deferred-lighting.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/post-process.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/tonemap.mtlbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/pageView.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/dependencies/textures/preintegrated-skin.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/2d/ui/Canvas.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/dependencies/textures/preintegrated-skin.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: start asset-db with asset: 419
+2023-10-19 11:57:03-debug: Start up the 'assets' database...
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/Anims/Drawer.animbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Config/UI.txtbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/Anims/Door.animbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scenes/Load.scenebackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scenes/Main.scenebackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: asset-db:worker-startup-database[internal] (11261ms)
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S1/S1.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S2/S2.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S3/S3.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/S4/S4.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/bg.mp3background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/bgm2.mp3background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/click.mp3background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/drawer.mp3background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/item.mp3background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/lock.mp3background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/start.mp3background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/success.mp3background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/Sound/watch.mp3background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Bag.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Dialogue.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Game.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Item_PC.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Item_Phone.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Item_Watch.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Main.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Tips.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/SubPackages/UI/UI_Win.prefabbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s1.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s1s.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s2.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3s1.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s1s.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s1.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s1s.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s2.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3s1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s2.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3s1.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3s1o.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s4.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s4s.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Progress.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3s1o.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s4.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s4s.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s3s1o.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s4.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/Scene/s4s.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/black.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Progress.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/point.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/progressBar.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Progress.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Dialogue/dialogue.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/point.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/bg_bag.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/point.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/bg_item.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/progressBar.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:03-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/black.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Dialogue/dialogue.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/black.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/progressBar.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/Dialogue/dialogue.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/bg_bag.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/key.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/bg_bag.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/bg_item.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/phone3.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/bg_item.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/watch3.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/back.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/key.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/bt01.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/key.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/back.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/phone3.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/back.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/phone3.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/bt02.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/watch3.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/left_bt0.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/left_bt1.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/bag/watch3.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/bt01.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/right_bt0.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/bt01.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/bt02.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/left_bt0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/bt02.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/left_bt0.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/left_bt1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/right_bt1.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/left_bt1.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door1.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door2.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/right_bt0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/right_bt0.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door3.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door_bg.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/right_bt1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/button/right_bt1.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door_closed.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door_bg.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door_bg.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door2.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door3.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door1.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door2.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door3.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/drawer/drawer_open.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/main/main_bg.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/main/title.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/pc/pc.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door_closed.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/main/main_bg.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/door/door_closed.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/main/main_bg.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phone/phone1.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/drawer/drawer_open.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phone/phone2.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/drawer/drawer_open.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/main/title.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/main/title.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/Tips.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phone/phone1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phone/phone1.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/pc/pc.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/Tips.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/pc/pc.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/TipsContent.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/Tips.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/Tipsbg.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watch/watch1.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/TipsContent.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/Tipsbg.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/TipsContent.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phone/phone2.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/tips/Tipsbg.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/phone/phone2.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watch/watch2.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/logo.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/title_success.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/win_bg.pngbackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watch/watch1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watch/watch1.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/win_bg.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/logo.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/win_bg.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/logo.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watch/watch2.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/watch/watch2.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/title_success.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: %cImport%c: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Res/UIRes/UI/win/title_success.png@f9941background: #aaff85; color: #000;color: #000;
+2023-10-19 11:57:04-debug: start asset-db with asset: 135
+2023-10-19 11:57:04-debug: Asset DB is ready!
+2023-10-19 11:57:04-debug: asset-db:worker-startup-database[assets] (3707ms)
+2023-10-19 11:57:04-debug: init worker message success
+2023-10-19 11:57:05-debug: builder:worker-init (1277ms)
+2023-10-19 11:57:06-debug: programming:execute-script (3ms)
+2023-10-19 11:57:16-debug: programming:execute-script (3ms)
+2023-10-19 11:57:20-debug: Query all assets info in project
+2023-10-19 11:57:20-debug: BuildAssetLibrary query-assets with assets 632
+2023-10-19 11:57:20-debug:   Number of other assets: 455
+2023-10-19 11:57:20-debug: 查询 Asset Bundle start0%
+2023-10-19 11:57:20-debug:   Number of all scenes: 2
+2023-10-19 11:57:20-debug: Process: heapTotal 229.86MB heapUsed 200.59MB rss 884.27MB
+2023-10-19 11:57:20-debug: // ---- build task 查询 Asset Bundle ----
+2023-10-19 11:57:20-debug:   Number of all scripts: 32
+2023-10-19 11:57:20-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-10-19 11:57:20-debug: // ---- build task 查询 Asset Bundle ---- (5ms)
+2023-10-19 11:57:20-debug: Process: heapTotal 231.86MB heapUsed 201.85MB rss 884.27MB
+2023-10-19 11:57:20-debug: init bundle assets
+2023-10-19 11:57:20-debug: 查询使用的资源以及资源包配置 start3%
+2023-10-19 11:57:20-debug: run build task 查询 Asset Bundle success in 5 ms √3%
+2023-10-19 11:57:20-debug: // ---- build task 查询使用的资源以及资源包配置 ----
+2023-10-19 11:57:20-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2023-10-19 11:57:20-debug: Number of scenes: 2
+2023-10-19 11:57:20-debug: // ---- build task 查询使用的资源以及资源包配置 ---- (1ms)
+2023-10-19 11:57:20-debug: run build task 查询使用的资源以及资源包配置 success in 1 ms √7%
+2023-10-19 11:57:20-debug: Process: heapTotal 231.86MB heapUsed 202.18MB rss 884.27MB
+2023-10-19 11:57:20-debug: sort script group...
+2023-10-19 11:57:20-debug: 整理脚本分组与脚本数据 start7%
+2023-10-19 11:57:20-debug: // ---- build task 整理脚本分组与脚本数据 ----
+2023-10-19 11:57:20-debug: // ---- build task 整理脚本分组与脚本数据 ---- (1ms)
+2023-10-19 11:57:20-debug: Process: heapTotal 231.86MB heapUsed 202.24MB rss 884.27MB
+2023-10-19 11:57:20-debug: 初始化 settings.json 与 config.json start10%
+2023-10-19 11:57:20-debug: // ---- build task 初始化 settings.json 与 config.json ----
+2023-10-19 11:57:20-debug: run build task 整理脚本分组与脚本数据 success in 1 ms √10%
+2023-10-19 11:57:20-debug: run build task 初始化 settings.json 与 config.json success in 0 ms √11%
+2023-10-19 11:57:20-debug: builder.tasks.settings.macro start11%
+2023-10-19 11:57:20-debug: // ---- build task builder.tasks.settings.macro ----
+2023-10-19 11:57:20-debug: builder.tasks.settings.macro 字段未在编辑器多语言内定义
+2023-10-19 11:57:20-debug: Process: heapTotal 231.86MB heapUsed 202.26MB rss 884.27MB
+2023-10-19 11:57:20-debug: // ---- build task builder.tasks.settings.macro ---- (1ms)
+2023-10-19 11:57:20-debug: Process: heapTotal 231.86MB heapUsed 202.29MB rss 884.27MB
+2023-10-19 11:57:20-debug: 整理部分构建选项内数据到 settings.json start11%
+2023-10-19 11:57:20-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-10-19 11:57:20-debug: run build task builder.tasks.settings.macro success in 1 ms √11%
+2023-10-19 11:57:20-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2023-10-19 11:57:20-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2023-10-19 11:57:20-debug: Process: heapTotal 231.86MB heapUsed 202.35MB rss 884.28MB
+2023-10-19 11:57:20-debug: custom joint texture layouts start12%
+2023-10-19 11:57:20-debug: // ---- build task custom joint texture layouts ----
+2023-10-19 11:57:20-debug: // ---- build task custom joint texture layouts ---- (1ms)
+2023-10-19 11:57:20-debug: custom joint physics start12%
+2023-10-19 11:57:20-debug: // ---- build task custom joint physics ----
+2023-10-19 11:57:20-debug: Process: heapTotal 231.86MB heapUsed 202.37MB rss 884.28MB
+2023-10-19 11:57:20-debug: run build task custom joint texture layouts success in 1 ms √12%
+2023-10-19 11:57:20-debug: run build task custom joint physics success in 0 ms √13%
+2023-10-19 11:57:20-debug: 填充脚本数据到 settings.json start13%
+2023-10-19 11:57:20-debug: Process: heapTotal 231.86MB heapUsed 202.39MB rss 884.30MB
+2023-10-19 11:57:20-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-10-19 11:57:20-debug: run build task 填充脚本数据到 settings.json success in 0 ms √13%
+2023-10-19 11:57:20-debug: Process: heapTotal 231.86MB heapUsed 202.41MB rss 884.30MB
+2023-10-19 11:57:20-debug: // ---- build task 填充场景数据到 settings.json ----
+2023-10-19 11:57:20-debug: 填充场景数据到 settings.json start13%
+2023-10-19 11:57:20-debug: run build task 填充场景数据到 settings.json success in 0 ms √14%
+2023-10-19 11:57:20-debug: 整理资源分组，生成 packedAssets 以及 rawAssets 数据 start14%
+2023-10-19 11:57:20-debug: // ---- build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 ----
+2023-10-19 11:57:20-debug: Process: heapTotal 231.86MB heapUsed 202.43MB rss 884.30MB
+2023-10-19 11:57:20-debug: // ---- build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 ---- (1ms)
+2023-10-19 11:57:20-debug: 从 suffixMap 生成 md5AssetsMap 到 settings.json start14%
+2023-10-19 11:57:20-debug: run build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 success in 1 ms √14%
+2023-10-19 11:57:20-debug: // ---- build task 从 suffixMap 生成 md5AssetsMap 到 settings.json ----
+2023-10-19 11:57:20-debug: options.md5Cache is false.
+2023-10-19 11:57:20-debug: Process: heapTotal 231.86MB heapUsed 200.68MB rss 884.31MB
+2023-10-19 11:57:20-debug: run build task 从 suffixMap 生成 md5AssetsMap 到 settings.json success in 0 ms √15%
+2023-10-19 12:07:18-debug: refresh db internal success
+2023-10-19 12:07:18-debug: asset-db:worker-effect-data-processing (180ms)
+2023-10-19 12:07:18-debug: refresh db assets success
+2023-10-19 12:07:18-debug: asset-db:refresh-all-database (225ms)
+2023-10-19 12:07:28-debug: refresh db internal success
+2023-10-19 12:07:28-debug: asset-db:worker-effect-data-processing (183ms)
+2023-10-19 12:07:28-debug: refresh db assets success
+2023-10-19 12:07:28-debug: asset-db:refresh-all-database (221ms)
+2023-10-19 12:07:37-debug: refresh db internal success
+2023-10-19 12:07:38-debug: asset-db:worker-effect-data-processing (111ms)
+2023-10-19 12:07:38-debug: refresh db assets success
+2023-10-19 12:07:38-debug: asset-db:refresh-all-database (149ms)
+2023-10-19 12:07:44-debug: refresh db internal success
+2023-10-19 12:07:44-debug: asset-db:worker-effect-data-processing (147ms)
+2023-10-19 12:07:44-debug: refresh db assets success
+2023-10-19 12:07:44-debug: asset-db:refresh-all-database (181ms)

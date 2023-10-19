@@ -1,0 +1,12 @@
+序号	预制体名称	类型
+id	name	type
+1	UI_Main	UIMain
+2	UI_Game	UIMain
+3	UI_Tips	UITip
+4	UI_Bag	UIAlert
+5	UI_Dialogue	UIMain
+6	UI_Pause	UIMain
+7	UI_Item_PC	UIMain
+8	UI_Item_Phone	UIMain
+9	UI_Item_Watch	UIMain
+10	UI_Win	UIMain

@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "UI",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "序号\t预制体名称\t类型\r\nid\tname\ttype\r\n1\tUI_Main\tUIMain\r\n2\tUI_Game\tUIMain\r\n3\tUI_Tips\tUITip\r\n4\tUI_Bag\tUIAlert\r\n5\tUI_Dialogue\tUIMain\r\n6\tUI_Pause\tUIMain\r\n7\tUI_Item_PC\tUIMain\r\n8\tUI_Item_Phone\tUIMain\r\n9\tUI_Item_Watch\tUIMain\r\n10\tUI_Win\tUIMain"
+}

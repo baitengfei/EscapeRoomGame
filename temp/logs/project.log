@@ -1,0 +1,194 @@
+10-19-2023 11:56:42 - verbose: Arguments:
+10-19-2023 11:56:42 - verbose:   /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/MacOS/CocosCreator: true
+10-19-2023 11:56:42 - verbose:   project: /Users/baitengfei/code/EscapeRoom/EscapeRoomMVP
+10-19-2023 11:56:42 - verbose:   dev: false
+10-19-2023 11:56:42 - verbose:   home: /Users/baitengfei/.CocosCreator
+10-19-2023 11:56:42 - verbose:  
+10-19-2023 11:56:46 - verbose: [Package] menu@1.0.0 enable
+10-19-2023 11:56:46 - verbose: [Package] profile@1.0.0 enable
+10-19-2023 11:56:46 - verbose: [Package] project@1.0.4 enable
+10-19-2023 11:56:46 - verbose: [Package] messages@1.0.0 enable
+10-19-2023 11:56:46 - verbose: [Package] program@1.0.3 enable
+10-19-2023 11:56:46 - verbose: [Package] tester@1.0.0 enable
+10-19-2023 11:56:46 - verbose: [Package] information@1.0.0 enable
+10-19-2023 11:56:46 - verbose: [Package] preferences@1.0.0 enable
+10-19-2023 11:56:48 - log: Load engine in /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine
+10-19-2023 11:56:49 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,light-probe,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,websocket,webview)
+10-19-2023 11:56:49 - log: Register native engine in /Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+10-19-2023 11:56:49 - verbose: [Package] engine@1.0.7 enable
+10-19-2023 11:56:49 - verbose: [Package] programming@1.0.0 enable
+10-19-2023 11:56:49 - verbose: [Package] device@1.0.1 enable
+10-19-2023 11:56:49 - verbose: [Package] ui-kit@1.0.1 enable
+10-19-2023 11:56:50 - verbose: [Package] asset-db@1.0.0 enable
+10-19-2023 11:56:50 - verbose: [Package] scene@1.0.0 enable
+10-19-2023 11:56:50 - verbose: [Package] server@1.0.0 enable
+10-19-2023 11:56:50 - verbose: [Package] utils@1.0.0 enable
+10-19-2023 11:57:01 - verbose: [Package] preview@1.0.1 enable
+10-19-2023 11:57:01 - verbose: [Package] animator@1.0.0 enable
+10-19-2023 11:57:01 - verbose: [Build-plugin] register pkg scene: 1ms
+10-19-2023 11:57:01 - verbose: Builder PluginManager init: 1ms
+10-19-2023 11:57:02 - verbose: [Package] builder@1.3.5 enable
+10-19-2023 11:57:02 - verbose: [Package] shortcuts@1.0.1 enable
+10-19-2023 11:57:02 - verbose: [Package] animation-graph@1.0.0 enable
+10-19-2023 11:57:02 - verbose: [Package] about@1.0.2 enable
+10-19-2023 11:57:02 - verbose: [Package] assets@1.0.0 enable
+10-19-2023 11:57:02 - verbose: [Package] console@1.0.0 enable
+10-19-2023 11:57:02 - verbose: [Package] crash-reporter@1.0.0 enable
+10-19-2023 11:57:02 - verbose: [Package] extension@3.1.1 enable
+10-19-2023 11:57:02 - verbose: [Package] hierarchy@1.0.0 enable
+10-19-2023 11:57:02 - verbose: [Package] inspector@1.0.0 enable
+10-19-2023 11:57:02 - verbose: [Package] light-probe@1.0.4 enable
+10-19-2023 11:57:02 - verbose: [Package] cocos-service@3.0.7 enable
+10-19-2023 11:57:02 - verbose: [Build-plugin] register pkg cocos-service: 32ms
+10-19-2023 11:57:02 - verbose: [Package] lightmap@1.0.4 enable
+10-19-2023 11:57:02 - verbose: [Package] node-library@1.0.1 enable
+10-19-2023 11:57:02 - verbose: [Package] package-asset@1.0.1 enable
+10-19-2023 11:57:02 - verbose: [Package] process@1.0.0 enable
+10-19-2023 11:57:02 - verbose: [Package] reference-image@1.0.0 enable
+10-19-2023 11:57:02 - verbose: [Package] reflection-probe@1.0.4 enable
+10-19-2023 11:57:02 - verbose: [Package] engine-extends@1.0.0 enable
+10-19-2023 11:57:02 - verbose: [Package] alipay-mini-game@1.0.1 enable
+10-19-2023 11:57:03 - verbose: [Package] android@1.0.1 enable
+10-19-2023 11:57:03 - verbose: [Package] bytedance-mini-game@1.0.2 enable
+10-19-2023 11:57:03 - verbose: [Build-plugin] register pkg alipay-mini-game: 75ms
+10-19-2023 11:57:03 - verbose: [Package] certificate@1.0.0 enable
+10-19-2023 11:57:03 - verbose: [Build-plugin] register pkg android: 75ms
+10-19-2023 11:57:03 - verbose: [Package] channel-upload-tools@1.0.0 enable
+10-19-2023 11:57:03 - verbose: [Build-plugin] register pkg bytedance-mini-game: 47ms
+10-19-2023 11:57:03 - verbose: [Package] fb-instant-games@1.0.0 enable
+10-19-2023 11:57:03 - verbose: [Package] huawei-agc@1.0.0 enable
+10-19-2023 11:57:03 - verbose: [Package] huawei-quick-game@1.0.1 enable
+10-19-2023 11:57:03 - verbose: [Build-plugin] register pkg huawei-agc: 37ms
+10-19-2023 11:57:03 - verbose: [Package] ios@1.0.0 enable
+10-19-2023 11:57:03 - verbose: [Build-plugin] register pkg fb-instant-games: 508ms
+10-19-2023 11:57:03 - verbose: [Build-plugin] register pkg huawei-quick-game: 480ms
+10-19-2023 11:57:03 - verbose: [Package] linux@1.0.0 enable
+10-19-2023 11:57:03 - verbose: [Package] mac@1.0.0 enable
+10-19-2023 11:57:03 - verbose: [Build-plugin] register pkg ios: 49ms
+10-19-2023 11:57:03 - verbose: [Package] native@1.0.2 enable
+10-19-2023 11:57:03 - verbose: [Build-plugin] register pkg native: 39ms
+10-19-2023 11:57:03 - verbose: [Build-plugin] register pkg mac: 104ms
+10-19-2023 11:57:03 - verbose: [Package] ohos@1.0.0 enable
+10-19-2023 11:57:03 - verbose: [Package] open-harmonyos@1.0.0 enable
+10-19-2023 11:57:03 - verbose: [Build-plugin] register pkg ohos: 37ms
+10-19-2023 11:57:03 - verbose: [Package] oppo-mini-game@1.0.1 enable
+10-19-2023 11:57:03 - verbose: [Package] runtime-dev-tools@1.0.0 enable
+10-19-2023 11:57:03 - verbose: [Package] taobao-creative-app@1.0.0 enable
+10-19-2023 11:57:03 - verbose: [Package] taobao-mini-game@1.0.0 enable
+10-19-2023 11:57:03 - verbose: [Package] vivo-mini-game@1.0.1 enable
+10-19-2023 11:57:03 - verbose: [Build-plugin] register pkg taobao-mini-game: 39ms
+10-19-2023 11:57:03 - verbose: [Package] web-desktop@1.0.1 enable
+10-19-2023 11:57:03 - verbose: [Build-plugin] register pkg vivo-mini-game: 41ms
+10-19-2023 11:57:04 - verbose: [Package] web-mobile@1.0.1 enable
+10-19-2023 11:57:04 - verbose: [Package] wechatgame@1.0.2 enable
+10-19-2023 11:57:04 - verbose: [Build-plugin] register pkg web-desktop: 56ms
+10-19-2023 11:57:04 - verbose: [Package] wechatprogram@1.0.2 enable
+10-19-2023 11:57:04 - verbose: [Build-plugin] register pkg web-mobile: 72ms
+10-19-2023 11:57:04 - verbose: [Package] windows@1.0.1 enable
+10-19-2023 11:57:04 - verbose: [Build-plugin] register pkg wechatgame: 52ms
+10-19-2023 11:57:04 - verbose: [Package] xiaomi-quick-game@1.0.1 enable
+10-19-2023 11:57:04 - verbose: [Build-plugin] register pkg oppo-mini-game: 257ms
+10-19-2023 11:57:04 - verbose: [Build-plugin] register pkg windows: 45ms
+10-19-2023 11:57:04 - verbose: [Build-plugin] register pkg taobao-creative-app: 244ms
+10-19-2023 11:57:04 - verbose: [Build-plugin] register pkg xiaomi-quick-game: 42ms
+10-19-2023 11:57:04 - verbose: [Package] im-plugin@3.0.10 enable
+10-19-2023 11:57:04 - verbose: asset-db is ready!
+10-19-2023 11:57:04 - verbose: [Package] placeholder@1.0.0 enable
+10-19-2023 11:57:06 - info: [Scene] [Physics][Bullet]: Using asmjs Bullet libs.
+10-19-2023 11:57:06 - info: [Scene] [PHYSICS]: using builtin.
+10-19-2023 11:57:06 - log: [Scene] Cocos Creator v3.7.3
+10-19-2023 11:57:06 - info: [Scene] Forward render pipeline initialized.
+10-19-2023 11:57:06 - warn: [Scene] The type of "SceneInfo.mSceneName" must be CCString, not String.Error: [Scene] The type of "SceneInfo.mSceneName" must be CCString, not String.
+    at warn (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147034:12)
+    at warnID (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147253:5)
+    at parseType (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:288059:11)
+    at preprocessAttrs (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:288199:11)
+    at declareProperties (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125901:7)
+    at CCClass (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125938:5)
+    at eval (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:286036:21)
+10-19-2023 11:57:06 - warn: [Scene] No needs to indicate the 'cc.String' attribute for "SceneInfo.mSceneName", which its default value is type of String.Error: [Scene] No needs to indicate the 'cc.String' attribute for "SceneInfo.mSceneName", which its default value is type of String.
+    at warn (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147034:12)
+    at warnID (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147253:5)
+    at Array.eval (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:287347:11)
+    at defineProp (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125713:27)
+    at declareProperties (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125907:11)
+    at CCClass (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125938:5)
+    at eval (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:286036:21)
+10-19-2023 11:57:06 - log: [Scene] EventManager init over
+10-19-2023 11:57:06 - info: [Scene] [PHYSICS2D]: switch from builtin to box2d.
+10-19-2023 11:57:07 - warn: [Scene] The type of "SceneInfo.mSceneName" must be CCString, not String.Error: [Scene] The type of "SceneInfo.mSceneName" must be CCString, not String.
+    at warn (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147034:12)
+    at warnID (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147253:5)
+    at parseType (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:288059:11)
+    at preprocessAttrs (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:288199:11)
+    at declareProperties (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125901:7)
+    at CCClass (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125938:5)
+    at eval (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:286036:21)
+10-19-2023 11:57:07 - warn: [Scene] No needs to indicate the 'cc.String' attribute for "SceneInfo.mSceneName", which its default value is type of String.Error: [Scene] No needs to indicate the 'cc.String' attribute for "SceneInfo.mSceneName", which its default value is type of String.
+    at warn (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147034:12)
+    at warnID (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147253:5)
+    at Array.eval (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:287347:11)
+    at defineProp (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125713:27)
+    at declareProperties (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125907:11)
+    at CCClass (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125938:5)
+    at eval (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:286036:21)
+10-19-2023 11:57:07 - log: [Scene] EventManager init over
+10-19-2023 11:57:07 - info: [PreviewInEditor] 预览环境初始化完毕
+10-19-2023 11:57:11 - info: [PreviewInEditor] [Physics][Bullet]: Using asmjs Bullet libs.
+10-19-2023 11:57:11 - info: [PreviewInEditor] [PHYSICS]: using builtin.
+10-19-2023 11:57:16 - log: [PreviewInEditor] Cocos Creator v3.7.3
+10-19-2023 11:57:16 - info: [PreviewInEditor] Forward render pipeline initialized.
+10-19-2023 11:57:16 - warn: [PreviewInEditor] The type of "SceneInfo.mSceneName" must be CCString, not String.Error: [PreviewInEditor] The type of "SceneInfo.mSceneName" must be CCString, not String.
+    at warn (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147034:12)
+    at warnID (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147253:5)
+    at parseType (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:288059:11)
+    at preprocessAttrs (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:288199:11)
+    at declareProperties (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125901:7)
+    at CCClass (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125938:5)
+    at eval (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:286036:21)
+10-19-2023 11:57:16 - warn: [PreviewInEditor] No needs to indicate the 'cc.String' attribute for "SceneInfo.mSceneName", which its default value is type of String.Error: [PreviewInEditor] No needs to indicate the 'cc.String' attribute for "SceneInfo.mSceneName", which its default value is type of String.
+    at warn (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147034:12)
+    at warnID (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147253:5)
+    at Array.eval (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:287347:11)
+    at defineProp (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125713:27)
+    at declareProperties (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125907:11)
+    at CCClass (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:125938:5)
+    at eval (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:286036:21)
+10-19-2023 11:57:16 - log: [PreviewInEditor] EventManager init over
+10-19-2023 11:57:16 - info: [PreviewInEditor] [PHYSICS2D]: switch from builtin to box2d.
+10-19-2023 11:57:20 - warn: [PreviewInEditor] Camera 'Editor Camera' clear flag is skybox, but skybox is disabled,  may cause strange background effect, please set camera clear flag to solid color.Error: [PreviewInEditor] Camera 'Editor Camera' clear flag is skybox, but skybox is disabled,  may cause strange background effect, please set camera clear flag to solid color.
+    at warn (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147034:12)
+    at Object.warnID (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147253:5)
+    at sceneCulling (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:43445:18)
+    at ForwardPipeline.render (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:41900:15)
+    at Root._frameMoveEnd (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:3596:28)
+    at Root.frameMove (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:3231:18)
+    at Director.tick (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13884:24)
+10-19-2023 11:57:20 - warn: [PreviewInEditor] Camera 'Editor Camera' clear flag is skybox, but skybox is disabled,  may cause strange background effect, please set camera clear flag to solid color.Error: [PreviewInEditor] Camera 'Editor Camera' clear flag is skybox, but skybox is disabled,  may cause strange background effect, please set camera clear flag to solid color.
+    at warn (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147034:12)
+    at Object.warnID (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:147253:5)
+    at sceneCulling (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:43445:18)
+    at ForwardPipeline.render (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:41900:15)
+    at Root._frameMoveEnd (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:3596:28)
+    at Root.frameMove (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:3231:18)
+    at Director.tick (/Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:13884:24)
+10-19-2023 11:57:21 - log: [PreviewInEditor] 加载子包成功：Config
+10-19-2023 11:57:21 - log: [PreviewInEditor] 加载子包成功：UI
+10-19-2023 11:57:21 - log: [PreviewInEditor] 加载子包成功：Sound
+10-19-2023 11:57:21 - log: [PreviewInEditor] 加载子包成功：S1
+10-19-2023 11:57:21 - log: [PreviewInEditor] 预加载主场景
+10-19-2023 11:57:21 - log: [PreviewInEditor] 加载子包成功：S2
+10-19-2023 11:57:21 - log: [PreviewInEditor] 加载子包成功：S3
+10-19-2023 11:57:21 - log: [PreviewInEditor] 加载子包成功：S4
+10-19-2023 11:57:21 - log: [PreviewInEditor] 多点触控： false
+10-19-2023 11:57:21 - log: [PreviewInEditor] 开始读配置 
+10-19-2023 11:57:21 - log: [PreviewInEditor] 配置读取完毕
+10-19-2023 11:57:21 - log: [PreviewInEditor] 开始进入游戏了
+10-19-2023 11:57:22 - log: [PreviewInEditor] 载入预制体成功，回调 S4
+10-19-2023 11:57:22 - log: [PreviewInEditor] 载入预制体成功，回调 S1
+10-19-2023 11:57:22 - log: [PreviewInEditor] 载入预制体成功，回调 S2
+10-19-2023 11:57:22 - log: [PreviewInEditor] 载入预制体成功，回调 S3
+10-19-2023 11:57:24 - log: [PreviewInEditor] 开始游戏了
+10-19-2023 12:07:21 - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+10-19-2023 12:07:21 - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277

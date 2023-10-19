@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "progressBar",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 365,
+      "height": 12
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 365,
+      "height": 12
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -182.5,
+        -6,
+        0,
+        182.5,
+        -6,
+        0,
+        -182.5,
+        6,
+        0,
+        182.5,
+        6,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        12,
+        365,
+        12,
+        0,
+        0,
+        365,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -182.5,
+        "y": -6,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 182.5,
+        "y": 6,
+        "z": 0
+      }
+    },
+    "texture": "8032353c-1d6d-4d48-994f-ac23c938cad4@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

@@ -1,0 +1,4743 @@
+{
+  "modules": {
+    "cce:/internal/x/cc": {
+      "mTimestamp": 12619.959291934967,
+      "chunkId": "02454ce52c24527a6d11792cfd90549c5b418480",
+      "imports": [
+        {
+          "value": "cce:/internal/x/cc-fu/2d",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/sorting",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/animation",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/audio",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/base",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/dragon-bones",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 14
+            },
+            "end": {
+              "line": 6,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 14
+            },
+            "end": {
+              "line": 7,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 14
+            },
+            "end": {
+              "line": 8,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/intersection-2d",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 14
+            },
+            "end": {
+              "line": 9,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/light-probe",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 14
+            },
+            "end": {
+              "line": 10,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle-2d",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 14
+            },
+            "end": {
+              "line": 11,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-2d-box2d",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 14
+            },
+            "end": {
+              "line": 12,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 14
+            },
+            "end": {
+              "line": 13,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/profiler",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 14
+            },
+            "end": {
+              "line": 14,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/spine",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 14
+            },
+            "end": {
+              "line": 15,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tiled-map",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 14
+            },
+            "end": {
+              "line": 16,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tween",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 14
+            },
+            "end": {
+              "line": 17,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/ui",
+          "resolved": "__unresolved_17",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 14
+            },
+            "end": {
+              "line": 18,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/video",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 14
+            },
+            "end": {
+              "line": 19,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/webview",
+          "resolved": "__unresolved_19",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 14
+            },
+            "end": {
+              "line": 20,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/sorting"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/base"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/light-probe"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-box2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/x/prerequisite-imports": {
+      "mTimestamp": 16480.60408294201,
+      "chunkId": "6d89e6cf95cf90c556aa72ab71682a536dcaf8a5",
+      "imports": [
+        {
+          "value": "file:///Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 7
+            },
+            "end": {
+              "line": 4,
+              "column": 155
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/SingletonClass.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 7
+            },
+            "end": {
+              "line": 5,
+              "column": 101
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 7
+            },
+            "end": {
+              "line": 6,
+              "column": 93
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/CfgUtil.ts",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 7
+            },
+            "end": {
+              "line": 7,
+              "column": 96
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/ConfigLoader.ts",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 7
+            },
+            "end": {
+              "line": 8,
+              "column": 101
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 7
+            },
+            "end": {
+              "line": 9,
+              "column": 95
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 7
+            },
+            "end": {
+              "line": 10,
+              "column": 95
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneBase.ts",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 7
+            },
+            "end": {
+              "line": 11,
+              "column": 96
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneInfo.ts",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 7
+            },
+            "end": {
+              "line": 12,
+              "column": 96
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S1.ts",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 7
+            },
+            "end": {
+              "line": 13,
+              "column": 95
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S2.ts",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 7
+            },
+            "end": {
+              "line": 14,
+              "column": 95
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S3.ts",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 7
+            },
+            "end": {
+              "line": 15,
+              "column": 95
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S4.ts",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 7
+            },
+            "end": {
+              "line": 16,
+              "column": 95
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 7
+            },
+            "end": {
+              "line": 17,
+              "column": 102
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/GameManager.ts",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 7
+            },
+            "end": {
+              "line": 18,
+              "column": 101
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/LoadingManager.ts",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 7
+            },
+            "end": {
+              "line": 19,
+              "column": 104
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/ResManager.ts",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 7
+            },
+            "end": {
+              "line": 20,
+              "column": 100
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts",
+          "resolved": "__unresolved_17",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 7
+            },
+            "end": {
+              "line": 21,
+              "column": 102
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 7
+            },
+            "end": {
+              "line": 22,
+              "column": 102
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts",
+          "resolved": "__unresolved_19",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 7
+            },
+            "end": {
+              "line": 23,
+              "column": 99
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/GameAd.ts",
+          "resolved": "__unresolved_20",
+          "loc": {
+            "start": {
+              "line": 24,
+              "column": 7
+            },
+            "end": {
+              "line": 24,
+              "column": 92
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/WXAPI.ts",
+          "resolved": "__unresolved_21",
+          "loc": {
+            "start": {
+              "line": 25,
+              "column": 7
+            },
+            "end": {
+              "line": 25,
+              "column": 91
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Tool/Tools.ts",
+          "resolved": "__unresolved_22",
+          "loc": {
+            "start": {
+              "line": 26,
+              "column": 7
+            },
+            "end": {
+              "line": 26,
+              "column": 92
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Bag.ts",
+          "resolved": "__unresolved_23",
+          "loc": {
+            "start": {
+              "line": 27,
+              "column": 7
+            },
+            "end": {
+              "line": 27,
+              "column": 91
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Dialogue.ts",
+          "resolved": "__unresolved_24",
+          "loc": {
+            "start": {
+              "line": 28,
+              "column": 7
+            },
+            "end": {
+              "line": 28,
+              "column": 96
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Game.ts",
+          "resolved": "__unresolved_25",
+          "loc": {
+            "start": {
+              "line": 29,
+              "column": 7
+            },
+            "end": {
+              "line": 29,
+              "column": 92
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_PC.ts",
+          "resolved": "__unresolved_26",
+          "loc": {
+            "start": {
+              "line": 30,
+              "column": 7
+            },
+            "end": {
+              "line": 30,
+              "column": 95
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_Phone.ts",
+          "resolved": "__unresolved_27",
+          "loc": {
+            "start": {
+              "line": 31,
+              "column": 7
+            },
+            "end": {
+              "line": 31,
+              "column": 98
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_Watch.ts",
+          "resolved": "__unresolved_28",
+          "loc": {
+            "start": {
+              "line": 32,
+              "column": 7
+            },
+            "end": {
+              "line": 32,
+              "column": 98
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Main.ts",
+          "resolved": "__unresolved_29",
+          "loc": {
+            "start": {
+              "line": 33,
+              "column": 7
+            },
+            "end": {
+              "line": 33,
+              "column": 92
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Tips.ts",
+          "resolved": "__unresolved_30",
+          "loc": {
+            "start": {
+              "line": 34,
+              "column": 7
+            },
+            "end": {
+              "line": 34,
+              "column": 92
+            }
+          }
+        },
+        {
+          "value": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Win.ts",
+          "resolved": "__unresolved_31",
+          "loc": {
+            "start": {
+              "line": 35,
+              "column": 7
+            },
+            "end": {
+              "line": 35,
+              "column": 91
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/SingletonClass.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/CfgUtil.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/ConfigLoader.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneBase.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneInfo.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S1.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S2.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S3.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S4.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/GameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/LoadingManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/ResManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/GameAd.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/WXAPI.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Tool/Tools.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Bag.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Dialogue.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Game.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_PC.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_Phone.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_Watch.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Main.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Tips.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Win.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Applications/Cocos/Creator/3.7.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": {
+      "mTimestamp": {
+        "mtime": 1682650880000,
+        "uuid": "b2bd1fa7-8d7c-49c5-a158-df29a6d3a594"
+      },
+      "chunkId": "79342fb072958cd4307d23faa536d31b78b67d2f",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 220
+            },
+            "end": {
+              "line": 1,
+              "column": 224
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/SingletonClass.ts": {
+      "mTimestamp": {
+        "mtime": 1697469580000,
+        "uuid": "d7b1ad66-b0ec-4b55-b559-af16f4d08515"
+      },
+      "chunkId": "55cb3b07e302362cc0f638aab94f5ac1c93cfd26",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts": {
+      "mTimestamp": {
+        "mtime": 1697464284000,
+        "uuid": "490510c8-6205-46f1-9cf1-479acf59a587"
+      },
+      "chunkId": "7acfaa940e0f83f73e4f5a1715d7ce1a9a681607",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../Manager/UIManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 34
+            },
+            "end": {
+              "line": 4,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 67
+            },
+            "end": {
+              "line": 6,
+              "column": 71
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1697687809236,
+      "chunkId": "3a1fd7b13056478820ebedd306d3446d1aa408cc",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts": {
+      "mTimestamp": {
+        "mtime": 1697469515000,
+        "uuid": "52d8642a-81b3-4367-826c-1987873ba4e0"
+      },
+      "chunkId": "ae074dc7e48e35d5b8ba1fc316be50505010ffc1",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 85
+            },
+            "end": {
+              "line": 1,
+              "column": 89
+            }
+          }
+        },
+        {
+          "value": "../Base/UIBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 23
+            },
+            "end": {
+              "line": 2,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "../Config/CfgUtil",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 24
+            },
+            "end": {
+              "line": 3,
+              "column": 43
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/CfgUtil.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/CfgUtil.ts": {
+      "mTimestamp": {
+        "mtime": 1697437268000,
+        "uuid": "dfd86e5d-f884-4e02-83eb-252e2f1ac8b9"
+      },
+      "chunkId": "d18b7e7d7d33a6bf7b4b130efd25d76e0324ad25",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../Base/SingletonClass",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 38
+            },
+            "end": {
+              "line": 4,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/SingletonClass.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/ConfigLoader.ts": {
+      "mTimestamp": {
+        "mtime": 1697437162000,
+        "uuid": "67dcd6a5-3e11-4299-b2ed-2c30320155f3"
+      },
+      "chunkId": "36bbce6c0e9fe4845be32170b89ddd699e359c1f",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./CfgUtil",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 35
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 55
+            },
+            "end": {
+              "line": 3,
+              "column": 59
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Config/CfgUtil.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts": {
+      "mTimestamp": {
+        "mtime": 1697372400000,
+        "uuid": "766dade4-2ac8-42f9-b492-afa7260c0bb9"
+      },
+      "chunkId": "1639e53f091c6da2a7932b73553dd441ff527b96",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../Base/SingletonClass",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 27
+            },
+            "end": {
+              "line": 3,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "../Manager/SoundManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../SDK/WXAPI",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 22
+            },
+            "end": {
+              "line": 5,
+              "column": 36
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 43
+            },
+            "end": {
+              "line": 7,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "./GameEnum",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 37
+            },
+            "end": {
+              "line": 8,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "../Tool/Tools",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 22
+            },
+            "end": {
+              "line": 9,
+              "column": 37
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/SingletonClass.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/WXAPI.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Tool/Tools.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts": {
+      "mTimestamp": {
+        "mtime": 1697469524000,
+        "uuid": "1e14507f-78d9-44ed-997c-f052353f4bb9"
+      },
+      "chunkId": "ad7dc510fa8693c2c145b6267e18a2adc026c3a3",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../Data/GameData",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 87
+            },
+            "end": {
+              "line": 3,
+              "column": 91
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/WXAPI.ts": {
+      "mTimestamp": {
+        "mtime": 1697372416000,
+        "uuid": "d0f0f4d3-d629-4efd-8e72-22655bde4030"
+      },
+      "chunkId": "5eee88fe9e52b6261a0bbff2527942839dbcd2d7",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../Base/SingletonClass",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 27
+            },
+            "end": {
+              "line": 1,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 43
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "../Tool/Tools",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 22
+            },
+            "end": {
+              "line": 6,
+              "column": 37
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/SingletonClass.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Tool/Tools.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Tool/Tools.ts": {
+      "mTimestamp": {
+        "mtime": 1697371359000,
+        "uuid": "51c67ecc-93af-49f9-a4d2-a37fc97130a7"
+      },
+      "chunkId": "e2aa8678c2b1d0bf7defca0437257f9b21262456",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 44
+            },
+            "end": {
+              "line": 3,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts": {
+      "mTimestamp": {
+        "mtime": 1697636741796.5303,
+        "uuid": "66442e4f-2eb2-4b1e-b874-c8468676cc3f"
+      },
+      "chunkId": "262db8610e4804991d3f8e75005f902a19dbe4df",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneBase.ts": {
+      "mTimestamp": {
+        "mtime": 1697372687000,
+        "uuid": "f97ee248-9ede-49ea-a407-a3e5a4cdf4f0"
+      },
+      "chunkId": "e823c41157ba982821a4ed5fb48283731fd18279",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 62
+            },
+            "end": {
+              "line": 1,
+              "column": 66
+            }
+          }
+        },
+        {
+          "value": "./SceneInfo",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 26
+            },
+            "end": {
+              "line": 2,
+              "column": 39
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneInfo.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneInfo.ts": {
+      "mTimestamp": {
+        "mtime": 1697437110000,
+        "uuid": "2e89514a-e559-4e82-bed3-2dd48d046da1"
+      },
+      "chunkId": "f12f5656c4ff899bd38a8cfe2731089f7abfef3d",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 44
+            },
+            "end": {
+              "line": 2,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S1.ts": {
+      "mTimestamp": {
+        "mtime": 1697463561000,
+        "uuid": "0eaf1331-0481-431a-99d7-18674e116ade"
+      },
+      "chunkId": "311d8c81f2ac292c9790c0e8c68be55c8a7c3ab7",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 100
+            },
+            "end": {
+              "line": 1,
+              "column": 104
+            }
+          }
+        },
+        {
+          "value": "../Manager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/SceneManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/UIManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 34
+            },
+            "end": {
+              "line": 4,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./GameData",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 37
+            }
+          }
+        },
+        {
+          "value": "./GameEnum",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 26
+            },
+            "end": {
+              "line": 6,
+              "column": 38
+            }
+          }
+        },
+        {
+          "value": "./SceneBase",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 26
+            },
+            "end": {
+              "line": 7,
+              "column": 39
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneBase.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts": {
+      "mTimestamp": {
+        "mtime": 1697450540000,
+        "uuid": "dd5e6507-4aea-41dc-9b3d-a2e6aed01f4a"
+      },
+      "chunkId": "5e85c6c7eca804e41cefc2bdb668a817d015a74b",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 43
+            },
+            "end": {
+              "line": 3,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts": {
+      "mTimestamp": {
+        "mtime": 1697635629481.8215,
+        "uuid": "ffad3da4-0d44-4dcd-9c41-6218817f0806"
+      },
+      "chunkId": "cd820b2cb7597a9d05993a2f4c1c3f2e83f3e54f",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 65
+            },
+            "end": {
+              "line": 1,
+              "column": 69
+            }
+          }
+        },
+        {
+          "value": "../Data/GameEnum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 26
+            },
+            "end": {
+              "line": 2,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "./EventManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "./ResManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "../Data/SceneBase",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 26
+            },
+            "end": {
+              "line": 5,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/ResManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneBase.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/ResManager.ts": {
+      "mTimestamp": {
+        "mtime": 1697469542000,
+        "uuid": "adc71e49-7d9c-4f2a-8752-e2ef757be799"
+      },
+      "chunkId": "04d22bf1bfb139d89052617a74850acee9a58a62",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 100
+            },
+            "end": {
+              "line": 1,
+              "column": 104
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S2.ts": {
+      "mTimestamp": {
+        "mtime": 1697636788835.083,
+        "uuid": "4facd9d4-6fa8-43aa-a060-8bbd47895398"
+      },
+      "chunkId": "418b02ac7fdd4b33e52df4f21c7c061599dd60d9",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 111
+            },
+            "end": {
+              "line": 1,
+              "column": 115
+            }
+          }
+        },
+        {
+          "value": "../Manager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/SceneManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/SoundManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/UIManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 34
+            },
+            "end": {
+              "line": 5,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./GameData",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 25
+            },
+            "end": {
+              "line": 6,
+              "column": 37
+            }
+          }
+        },
+        {
+          "value": "./GameEnum",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 26
+            },
+            "end": {
+              "line": 7,
+              "column": 38
+            }
+          }
+        },
+        {
+          "value": "./SceneBase",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 26
+            },
+            "end": {
+              "line": 8,
+              "column": 39
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneBase.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S3.ts": {
+      "mTimestamp": {
+        "mtime": 1697636287869.4434,
+        "uuid": "245b006e-7a2e-4ecf-9638-c4b7e7014d6a"
+      },
+      "chunkId": "5c9561f1e7b8b7af9e83908acc677e551ba38023",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 71
+            },
+            "end": {
+              "line": 1,
+              "column": 75
+            }
+          }
+        },
+        {
+          "value": "../Manager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/SceneManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/SoundManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/UIManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 34
+            },
+            "end": {
+              "line": 5,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./GameData",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 25
+            },
+            "end": {
+              "line": 6,
+              "column": 37
+            }
+          }
+        },
+        {
+          "value": "./GameEnum",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 26
+            },
+            "end": {
+              "line": 7,
+              "column": 38
+            }
+          }
+        },
+        {
+          "value": "./SceneBase",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 26
+            },
+            "end": {
+              "line": 8,
+              "column": 39
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneBase.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/Scene_S4.ts": {
+      "mTimestamp": {
+        "mtime": 1697637236706.5427,
+        "uuid": "cc150969-4721-4748-8de4-35e0e83acf71"
+      },
+      "chunkId": "b48946298c84900a984d258e88512ac961186ed1",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 100
+            },
+            "end": {
+              "line": 1,
+              "column": 104
+            }
+          }
+        },
+        {
+          "value": "../Manager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/SceneManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/UIManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 34
+            },
+            "end": {
+              "line": 4,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./GameData",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 37
+            }
+          }
+        },
+        {
+          "value": "./GameEnum",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 26
+            },
+            "end": {
+              "line": 6,
+              "column": 38
+            }
+          }
+        },
+        {
+          "value": "./SceneBase",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 26
+            },
+            "end": {
+              "line": 7,
+              "column": 39
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/SceneBase.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/GameManager.ts": {
+      "mTimestamp": {
+        "mtime": 1697635761082.9675,
+        "uuid": "a1e78248-9ce8-4bb3-82dd-c132a4f078bf"
+      },
+      "chunkId": "d1ff4ca80d5df6800fe098b4d5dc3a5f18191878",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 45
+            },
+            "end": {
+              "line": 1,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "./SoundManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "./UIManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 34
+            },
+            "end": {
+              "line": 3,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "../Data/GameData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "./SceneManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 29
+            },
+            "end": {
+              "line": 5,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/LoadingManager.ts": {
+      "mTimestamp": {
+        "mtime": 1697635610919.8718,
+        "uuid": "69a49f5c-5a89-45d4-9e4a-e13317c38c0a"
+      },
+      "chunkId": "1dbfbb60797eb5c673fcf67c7e115eb4e8620874",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 70
+            },
+            "end": {
+              "line": 4,
+              "column": 74
+            }
+          }
+        },
+        {
+          "value": "../Data/GameData",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 43
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/GameAd.ts": {
+      "mTimestamp": {
+        "mtime": 1697372293000,
+        "uuid": "64e212d0-882d-4bb0-9447-fcd6a57ca73b"
+      },
+      "chunkId": "233bca933b01c05d7adc07e11bbbcd74ac6bc36f",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 32
+            },
+            "end": {
+              "line": 1,
+              "column": 36
+            }
+          }
+        },
+        {
+          "value": "../Manager/UIManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 26
+            },
+            "end": {
+              "line": 5,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "./WXAPI",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 22
+            },
+            "end": {
+              "line": 6,
+              "column": 31
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/SDK/WXAPI.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Bag.ts": {
+      "mTimestamp": {
+        "mtime": 1697687701502.692,
+        "uuid": "0e523620-de34-4f2d-a364-57342aa1d95e"
+      },
+      "chunkId": "ab674a5a0d263e83868b845d848eab3ccfd6c2c1",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 123
+            },
+            "end": {
+              "line": 2,
+              "column": 127
+            }
+          }
+        },
+        {
+          "value": "../Base/UIBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 23
+            },
+            "end": {
+              "line": 3,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "../Data/GameData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "../Data/GameEnum",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 26
+            },
+            "end": {
+              "line": 6,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "../Manager/EventManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 29
+            },
+            "end": {
+              "line": 7,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/SceneManager",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 29
+            },
+            "end": {
+              "line": 9,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/SoundManager",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 29
+            },
+            "end": {
+              "line": 10,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/UIManager",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 34
+            },
+            "end": {
+              "line": 11,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Dialogue.ts": {
+      "mTimestamp": {
+        "mtime": 1697375443000,
+        "uuid": "8a2c1aad-bbab-4db7-b72f-8567cc9e14f5"
+      },
+      "chunkId": "77b97328533222822754f16695b3fac7fdd9a37c",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 84
+            },
+            "end": {
+              "line": 2,
+              "column": 88
+            }
+          }
+        },
+        {
+          "value": "../Base/UIBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 23
+            },
+            "end": {
+              "line": 3,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "../Manager/GameManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 28
+            },
+            "end": {
+              "line": 8,
+              "column": 52
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/GameManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Game.ts": {
+      "mTimestamp": {
+        "mtime": 1697636847832.4136,
+        "uuid": "35d19126-448b-4f5f-96a6-f2fb8e80b4c1"
+      },
+      "chunkId": "4db918300991c68f42dd30c27431f2346a50ffdd",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 90
+            },
+            "end": {
+              "line": 2,
+              "column": 94
+            }
+          }
+        },
+        {
+          "value": "../Base/UIBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 23
+            },
+            "end": {
+              "line": 3,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "../Data/GameData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "../Data/GameEnum",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 26
+            },
+            "end": {
+              "line": 6,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "../Manager/EventManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 29
+            },
+            "end": {
+              "line": 7,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/SceneManager",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 29
+            },
+            "end": {
+              "line": 9,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/SoundManager",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 29
+            },
+            "end": {
+              "line": 10,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_PC.ts": {
+      "mTimestamp": {
+        "mtime": 1697459854000,
+        "uuid": "a12475c5-f81b-4901-aac0-c4e979bf620f"
+      },
+      "chunkId": "2b991035b530b4781a158756f8bca1d6023d38d1",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 103
+            },
+            "end": {
+              "line": 2,
+              "column": 107
+            }
+          }
+        },
+        {
+          "value": "../Base/UIBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 23
+            },
+            "end": {
+              "line": 3,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "../Manager/SoundManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 29
+            },
+            "end": {
+              "line": 11,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_Phone.ts": {
+      "mTimestamp": {
+        "mtime": 1697466116000,
+        "uuid": "1865269a-7d38-47ed-95b5-11f16b441dea"
+      },
+      "chunkId": "fda6cf479bbf27d3d8be504f7d5702c7a76cdae7",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 119
+            },
+            "end": {
+              "line": 2,
+              "column": 123
+            }
+          }
+        },
+        {
+          "value": "../Base/UIBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 23
+            },
+            "end": {
+              "line": 3,
+              "column": 39
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Item_Watch.ts": {
+      "mTimestamp": {
+        "mtime": 1697466126000,
+        "uuid": "fd779ac3-7b50-4aaf-ae52-4a2eaeb52220"
+      },
+      "chunkId": "438b0a0f2e1446ba767941289242bdd8a3cb7bfa",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 51
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "../Base/UIBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 23
+            },
+            "end": {
+              "line": 2,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "../Data/GameData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "../Data/GameEnum",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 26
+            },
+            "end": {
+              "line": 4,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "../Manager/EventManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 29
+            },
+            "end": {
+              "line": 5,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/SceneManager",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 29
+            },
+            "end": {
+              "line": 6,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Main.ts": {
+      "mTimestamp": {
+        "mtime": 1697375037000,
+        "uuid": "431bbe77-8752-434f-aec6-619fdf6fecc6"
+      },
+      "chunkId": "f24e6df7ef0a0ce2e081bdf129f213db6084fd3f",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 84
+            },
+            "end": {
+              "line": 2,
+              "column": 88
+            }
+          }
+        },
+        {
+          "value": "../Base/UIBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 23
+            },
+            "end": {
+              "line": 3,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "../Data/GameData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "../Manager/GameManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 28
+            },
+            "end": {
+              "line": 8,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "../Manager/SoundManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 29
+            },
+            "end": {
+              "line": 9,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Data/GameData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/GameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Tips.ts": {
+      "mTimestamp": {
+        "mtime": 1697463841000,
+        "uuid": "77ad80ff-22b7-441f-b71e-33a6c02e4848"
+      },
+      "chunkId": "a97a8eb8d5baadf2655afb029626b47ba48c3711",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 88
+            },
+            "end": {
+              "line": 2,
+              "column": 92
+            }
+          }
+        },
+        {
+          "value": "../Base/UIBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 23
+            },
+            "end": {
+              "line": 3,
+              "column": 39
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/UI/UI_Win.ts": {
+      "mTimestamp": {
+        "mtime": 1697376090000,
+        "uuid": "e878653f-3ced-4163-9b19-f334d75d0f2c"
+      },
+      "chunkId": "7042eb294d610f40e2e8667f2a45a075e2e021e3",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 89
+            },
+            "end": {
+              "line": 2,
+              "column": 93
+            }
+          }
+        },
+        {
+          "value": "../Base/UIBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 23
+            },
+            "end": {
+              "line": 3,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "../Manager/SceneManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 29
+            },
+            "end": {
+              "line": 9,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/SoundManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 29
+            },
+            "end": {
+              "line": 10,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Manager/UIManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 34
+            },
+            "end": {
+              "line": 11,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Base/UIBase.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SceneManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/SoundManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/baitengfei/code/EscapeRoom/EscapeRoomMVP/assets/Scripts/Manager/UIManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    }
+  }
+}

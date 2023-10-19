@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phone2",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 309,
+      "height": 618
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 309,
+      "height": 618
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -154.5,
+        -309,
+        0,
+        154.5,
+        -309,
+        0,
+        -154.5,
+        309,
+        0,
+        154.5,
+        309,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        618,
+        309,
+        618,
+        0,
+        0,
+        309,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -154.5,
+        "y": -309,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 154.5,
+        "y": 309,
+        "z": 0
+      }
+    },
+    "texture": "01cc55de-9819-4916-be36-9063af568da6@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}
