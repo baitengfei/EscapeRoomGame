@@ -16,4 +16,4 @@ You can run it with Cocos Creator, it includes almost all the typical elements o
 * **Visual Studio Code**
 
 ## Author
-* **Bai Tengfei** - Personal Site: [白腾飞的博客](https://www.baitengfei.com){:target="_blank"}
+* **Bai Tengfei** - Personal Site: [白腾飞的博客](https://www.baitengfei.com)
