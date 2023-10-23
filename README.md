@@ -4,7 +4,7 @@ This is a template of a classic EscapeRoom game.
 You can use this template to create your own escape room game, which typically requires players to solve puzzles, find clues, and escape from a virtual enclosed space. The template provides you with a basic framework for the game, allowing you to customize and add your own puzzles, graphics, audio, and storyline.
 ## Demo
 You can play the game by scan the QR code below use Wechat:
-![escaperoom](https://imgur.com/a/RRRdXu5)
+![escaperoom](https://i.imgur.com/D4nPnF7.jpeg)
 
 ## Getting Started
 You can run it with Cocos Creator, it includes almost all the typical elements of an escaperoom game, such as:
